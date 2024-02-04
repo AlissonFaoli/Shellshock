@@ -17,11 +17,12 @@ Example:
 
 	python3 shellshock.py http://vulnerablewebsite.com/cgi-bin/test.cgi 109.876.654.321 1234
 
+
 Prerequisites:
 - A local development environment
 - Python installed
-- To run this exploit, you can follow these steps:
 
+### <u>To run this exploit, you can follow these steps:</u>
 Clone this repository to your local machine.
 ```
 git clone https://github.com/AlissoftCodes/Shellshock.git
