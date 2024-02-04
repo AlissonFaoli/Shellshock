@@ -38,7 +38,7 @@ python3 shellshock.py http://vulnerable-website.com listening_interface_IP liste
 ###### Please remember that this exploit should never be used against real software or systems you're not authorized to test. Unauthorized access or any malicious activity is illegal.
 
 #### <u>License</u>
-_This exploit is released under the MIT License. You can find more information about this in the LICENSE file.
+_This exploit is released under the MIT License. You can find more information about this in the LICENSE file._
 
 
 # Author: Alisson Faoli
