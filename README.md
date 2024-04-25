@@ -25,7 +25,7 @@ Prerequisites:
 ### <u>To run this exploit, you can follow these steps:</u>
 Clone this repository to your local machine.
 ```
-git clone https://github.com/AlissoftCodes/Shellshock.git
+git clone https://github.com/AlissonFaoli/Shellshock.git
 ```
 
 Navigate to the project directory.
@@ -46,7 +46,7 @@ _This exploit is released under the MIT License. You can find more information a
 
 # Author: Alisson Faoli
 
-#### Github: https://github.com/AlissoftCodes
+#### Github: https://github.com/AlissonFaoli
 #### LinkedIn: https://linkedin.com/in/alisson-faoli
 
 
