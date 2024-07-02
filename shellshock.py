@@ -53,7 +53,9 @@ def shell(url, lhost, lport):
 
 		except:
 			nc = None
-
+	else:
+		nc = None
+	
 	if nc and 'not found' not in nc:
 		os.system(f'{nc} -lvp {lport}')
 
